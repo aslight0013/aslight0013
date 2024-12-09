@@ -80,4 +80,3 @@
         <img src="https://camo.githubusercontent.com/a3442b07b8286870de881caa15a0f6024469c6d602173b9129af14bbd36d21c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d2532333032364141372e7376673f7374796c653d706c6173746963266c6f676f3d5472656c6c6f266c6f676f436f6c6f723d7768697465" alt="Trello" data-canonical-src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&amp;logo=Trello&amp;logoColor=white" style="max-width: 100%;">
     </a>
 </p>
-<hr>
